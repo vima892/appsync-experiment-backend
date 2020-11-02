@@ -1,0 +1,25 @@
+{
+  "name": "appsync-experiment-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Backend repo for the appsync masterclass course",
+  "main": "index.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vima892/appsync-experiment-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vima892/appsync-experiment-backend/issues"
+  },
+  "homepage": "https://github.com/vima892/appsync-experiment-backend#readme",
+  "devDependencies": {
+    "serverless": "^2.4.0",
+    "serverless-appsync-plugin": "^1.4.0"
+  }
+}
